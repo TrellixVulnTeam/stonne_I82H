@@ -43,6 +43,7 @@ We have created a docker image for STONNE! Everything is installed in the image 
 
 ```
 docker run -it franciscomunoz/stonne_omega_img /bin/bash
+```
 
 ## What is STONNE
 
